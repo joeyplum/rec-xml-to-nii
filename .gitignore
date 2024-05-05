@@ -1,3 +1,13 @@
+# ReadPhilips
+/readphilips/
+readphilips/__init__.py
+readphilips/file_io.py
+readphilips/getRadialParams.py
+readphilips/getSpiralParams.py
+readphilips/readMira.py
+readphilips/ReadPhilips.py
+readphilips/readPhilipsExports.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
